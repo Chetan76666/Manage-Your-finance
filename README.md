@@ -1,7 +1,7 @@
 # Budget Manager Application
 
 A web application with Authentication and CRUD functionalities, 
-to manage budget expenses.
+to manage Your Financial expenses.
 
 
 
